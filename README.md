@@ -22,5 +22,6 @@ Ici je logge mes avancements de semaine en semaine.
 
 * Tests de communication en utilisant http et les websocket avec python mais MQTT à l'air intéressant et vraiment moins couteux : voir https://medium.com/@flespi/http-vs-mqtt-performance-tests-f9adde693b5f
 * Protocole de communication avec MQTT mis en place avec succès.
+![mqtt demo](mqtt_basic.gif)
 * MQTT utilisé avec python et matplotlib pour avoir du plotting en temps réel, fonctionne mais c'est toujours très lent.
 * Recherches sur pyqtgraph, solution beaucoup plus performante pour le graphing, difficultés à le faire fonctionner correctement dans mon workflow, à cause d'intéractions bizarres avec le WSL

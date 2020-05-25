@@ -25,3 +25,7 @@ Ici je logge mes avancements de semaine en semaine.
 ![mqtt demo](mqtt_basic.gif)
 * MQTT utilisé avec python et matplotlib pour avoir du plotting en temps réel, fonctionne mais c'est toujours très lent.
 * Recherches sur pyqtgraph, solution beaucoup plus performante pour le graphing, difficultés à le faire fonctionner correctement dans mon workflow, à cause d'intéractions bizarres avec le WSL
+
+## Semaine 4 : 25/05 - 01/06
+
+* Au final les data arrivent pas si vite donc je vais me concentrer sur matplotlib pour le moment et essayer d'optimiser les performances au besoin, comme ça j'aurai des mesures.

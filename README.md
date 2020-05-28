@@ -29,3 +29,4 @@ Ici je logge mes avancements de semaine en semaine.
 ## Semaine 4 : 25/05 - 01/06
 
 * Au final les data arrivent pas si vite donc je vais me concentrer sur matplotlib pour le moment et essayer d'optimiser les performances au besoin, comme ça j'aurai des mesures.
+* J'ai de mesures en live mais au bout de quelques minutes, un délai se forme, il a donc toujours une lenteur provoquée par matlplotlib

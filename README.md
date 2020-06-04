@@ -30,3 +30,7 @@ Ici je logge mes avancements de semaine en semaine.
 
 * Au final les data arrivent pas si vite donc je vais me concentrer sur matplotlib pour le moment et essayer d'optimiser les performances au besoin, comme ça j'aurai des mesures.
 * J'ai de mesures en live mais au bout de quelques minutes, un délai se forme, il a donc toujours une lenteur provoquée par matlplotlib
+
+## Semaine 5 : 01/06 - 08/06
+
+* Après beaucoup trop de recherches pour optimiser le graphing je me rend compte que je peux simplement utiliser mon windows pour le graphing, sans le délai occasionné par le xserver en plus les packages sont plus simples à installer et tout va tourner plus vite
